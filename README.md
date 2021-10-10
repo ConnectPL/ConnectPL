@@ -1,7 +1,8 @@
-- 👋 Hi, I’m ConnectPL
 
 #### Java programmer
 ![Java programmer](https://i.imgur.com/RDqtfKn.png)
+
+My portfolio: soon ;)
 
 I'm learning javascript
 
