@@ -1,6 +1,6 @@
 
 #### Java programmer
-![Java programmer](https://i.imgur.com/RDqtfKn.png)
+![Java programmer](https://i.imgur.com/T19Zd5f.png)
 
 My portfolio: soon ;)
 
