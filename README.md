@@ -4,7 +4,6 @@
 
 My portfolio: soon ;)
 
-I'm learning javascript
 
 
 
