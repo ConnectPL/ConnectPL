@@ -5,10 +5,10 @@
 
 #### Languages
 - ![java](https://img.shields.io/badge/-Java-3fd161?style=flat-square&logo=java)
-- ![c#](https://img.shields.io/badge/-csharp-3fd161?style=flat-square&logo=csharp)
+- ![c#](https://img.shields.io/badge/-csharp-3fd161?style=flat-square&logo=csharp) [I'm still learning]
 
 #### IDE
-- ![ide](https://img.shields.io/badge/-Intellij_Idea-3fd161?style=flat-square&logo=intellij-idea) [I'm still learning]
+- ![ide](https://img.shields.io/badge/-Intellij_Idea-3fd161?style=flat-square&logo=intellij-idea)
 -
 
 ---
