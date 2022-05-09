@@ -13,3 +13,7 @@
 
 ---
 
+<p align="center">
+  <a href="https://discord.gg/3pmZ5d9zrV"><img src="https://discordapp.com/api/guilds/783727364524867614/widget.png?style=banner2"/></a>
+</p>
+
