@@ -15,6 +15,6 @@
 ---
 
 <p align="center">
-  <a href="https://discord.gg/3pmZ5d9zrV"><img src="https://discordapp.com/api/guilds/976987326037241896/widget.png?style=banner2"/></a>
+  <a href="https://dc.mylobby.pl/><img src="https://discordapp.com/api/guilds/976987326037241896/widget.png?style=banner2"/></a>
 </p>
 
