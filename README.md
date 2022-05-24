@@ -10,7 +10,7 @@
 
 #### IDE
 - ![ide](https://img.shields.io/badge/-Intellij_Idea-3fd161?style=flat-square&logo=intellij-idea)
--
+- ![visual](https://img.shields.io/badge/-Visual_studio_code-3fd161?style=flat-square&logo=visual-studio-code)
 
 ---
 
