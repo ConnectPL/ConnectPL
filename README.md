@@ -12,8 +12,9 @@
   <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
 </div> 
 
+
+##Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ConnectPL&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
----
 
 <p align="center">
   <a href="https://dc.mylobby.pl/><img src="https://discordapp.com/api/guilds/976987326037241896/widget.png?style=banner2"/></a>
