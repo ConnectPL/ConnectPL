@@ -1,10 +1,9 @@
-!
+
 ---
 
 <img alt="oh yeah" src="https://github-readme-stats.vercel.app/api?username=ConnectPL&show_icons=true&theme=merko" align="right"/>
 
 #### Languages & Tools
-- ![java](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)
 - ![c#](https://img.shields.io/badge/-csharp-3fd161?style=flat-square&logo=csharp) [I'm still learning]
 
 #### IDE
