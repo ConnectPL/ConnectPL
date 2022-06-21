@@ -1,15 +1,18 @@
 
 ---
 
-<img alt="oh yeah" src="https://github-readme-stats.vercel.app/api?username=ConnectPL&show_icons=true&theme=merko" align="right"/>
-
 #### Languages & Tools
-- ![c#](https://img.shields.io/badge/-csharp-3fd161?style=flat-square&logo=csharp) [I'm still learning]
+<div align="center">  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
+</div> 
 
-#### IDE
-- ![ide](https://img.shields.io/badge/-Intellij_Idea-3fd161?style=flat-square&logo=intellij-idea)
-- ![visual](https://img.shields.io/badge/-Visual_studio_code-3fd161?style=flat-square&logo=visual-studio-code)
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ConnectPL&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 ---
 
 <p align="center">
