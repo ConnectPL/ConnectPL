@@ -10,6 +10,7 @@
   <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
   <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />  
   <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="45" />  
 </div> 
 
 
